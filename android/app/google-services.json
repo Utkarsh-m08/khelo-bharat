@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1056368075662",
+    "project_id": "sportshub-351ab",
+    "storage_bucket": "sportshub-351ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056368075662:android:2ab407d600f08854593adf",
+        "android_client_info": {
+          "package_name": "com.example.sports_hub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCREaY8yVkVXtLwMNhhGJ1qFmAzGwW7wbA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
